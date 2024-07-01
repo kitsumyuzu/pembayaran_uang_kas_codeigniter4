@@ -1,0 +1,5 @@
+- Tambah foto profile
+- Export transaction user
+- Print all data transaction
+
+INSERT INTO [table](table_value) VALUES (new.value)
